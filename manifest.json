@@ -1,0 +1,10 @@
+{
+    "author": "Vinzent / 中文维护：huangfuhe",
+    "authorUrl": "https://github.com/huangfuhe",
+    "id": "obsidian-git-zh",
+    "name": "Git 中文版",
+    "description": "Obsidian Git 的中文维护版，提供自动备份、同步和 Git 版本控制。",
+    "isDesktopOnly": false,
+    "fundingUrl": "https://ko-fi.com/vinzent",
+    "version": "2.40.0-zh.1"
+}
